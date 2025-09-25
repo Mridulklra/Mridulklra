@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 3rd-year B. Tech. (IT) student at University Institute of Technology RGPV<br>I am working on frontend development<br>Currently I am learning react & Next.js<br> I love to learn new technologies<br>
+I'm a 4-year B. Tech. (IT) student at University Institute of Technology RGPV<br>I am working on frontend development<br>Currently I am learning react & Next.js<br> I love to learn new technologies<br>
 
 
 ## 🌐 Socials:
