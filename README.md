@@ -1,5 +1,18 @@
-# 💫 About Me:
-I'm a 4-year B. Tech. (IT) student at University Institute of Technology RGPV<br>I am working on frontend development<br>Currently I am learning react & Next.js<br> I love to learn new technologies<br>
+# 💫 About Me
+I'm a B.Tech (IT) undergraduate at **University Institute of Technology, RGPV**.
+
+I work across **frontend and backend development**, with hands-on experience in **React, Next.js, and Golang**.  
+I enjoy building real-world projects, working with scalable systems, and learning new technologies deeply.
+
+### 🚀 Tech Stack
+- **Languages:** Go (Golang), JavaScript, TypeScript, Java, Python  
+- **Frontend:** React, Next.js, HTML, CSS  
+- **Backend:** Golang, Node.js, REST APIs, gRPC  
+- **Databases:** MongoDB, PostgreSQL, Redis  
+- **DevOps & Tools:** Docker, Git, CI/CD, Linux  
+- **Core CS:** Data Structures & Algorithms, OOP, OS, DBMS
+
+Always curious, always building, and continuously improving as a developer.
 
 
 ## 🌐 Socials:
