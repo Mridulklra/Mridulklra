@@ -5,7 +5,7 @@ I work across **frontend and backend development**, with hands-on experience in 
 I enjoy building real-world projects, working with scalable systems, and learning new technologies deeply.
 
 ### 🚀 Tech Stack
-- **Languages:** Go (Golang), JavaScript, TypeScript, Java, Python  
+- **Languages:** Python, JavaScript, TypeScript, Java, Go 
 - **Frontend:** React, Next.js, HTML, CSS  
 - **Backend:** Golang, Node.js, REST APIs, gRPC  
 - **Databases:** MongoDB, PostgreSQL, Redis  
